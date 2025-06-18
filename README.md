@@ -26,8 +26,8 @@ A Python tool for scraping and collecting prompt data from the [Glean Prompt Lib
 
 1. Clone this repository:
    ```
-   git clone https://github.com/jypal/glean-scraper.git
-   cd glean-scraper
+   git clone https://github.com/jypal6/glean-prompt-library.git
+   cd glean-prompt-library
    ```
 
 2. Install required packages:
